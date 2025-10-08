@@ -1,6 +1,7 @@
 # CyberpunkRP-AI-LLM-Game
 
-Pre-Release Download: Coming Soon.
+Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1UQXJnL0HF8ymW9JVriuWNFVmF_y6gvcC
+)
 
 ========================================================================
 
