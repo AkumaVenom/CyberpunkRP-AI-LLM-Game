@@ -14,7 +14,7 @@ CyberpunkRP is being created with Unreal Engine 5.5 and is a work in progress th
 
 ========================================================================
 
-https://discord.gg/Uf8Q8usSmk
+<img width="1000" height="532" alt="Screenshot 2025-10-08 224434" src="https://github.com/user-attachments/assets/87611a31-8041-4adc-ae03-3cea10819be2" />
 
 ========================================================================
 
@@ -47,3 +47,5 @@ The following CPUs should work:
 Intel: 4th Generation (Haswell) and above
 
 ========================================
+
+https://discord.gg/Uf8Q8usSmk
