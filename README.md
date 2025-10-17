@@ -9,9 +9,23 @@ Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&i
 
 CyberpunkRP is a cutting-edge game powered by 100% Local AI LLM NPCs for every character in the game.
 
-Players are NOT interacting with pre-programmed NPCs, You will be conversing and interacting with open world npcs, the game's captivating star attractions, who possesses true conversational freedom powered by the latest in LLM Chat AI. Using voice recognition, you can speak directly to them with your voice, and they will respond with their own voices in real time with their own thoughts, emotions, and actions inside the game world, thanks to their advanced AI.
+CyberpunkRP is a immersive roleplaying experience where every NPC is powered by local, real-time AI—not scripted. There are no canned dialogue trees, no predictable responses. Every character in the game is a living, thinking digital mind driven by cutting-edge LLM (Large Language Model) technology, running entirely on your own hardware.
+
+Talk. Listen. React.
+Using built-in voice recognition and TTS, you have real conversations with AI citizens of Neon City. They respond with their own unique voices, emotions, and thoughts in real time, shaped by who they are and how the world around them evolves.
+From lively party clubs to shady underworld fixers and cyborg hackers to weary street vendors, The city breathes through its people.
 
 Set in a sprawling cyberpunk slum metropolis where the night never ends, Neon City pulses with energy as music echoes from every corner, night clubs illuminate the streets, and towering skyscrapers cast a glowing haze over the urban jungle, As the city hums with life.
+CyberpunkRP isn’t just a game. It’s a living simulation of a cyberpunk world where the people are as real as the city they live in.
+Welcome to Neon City. The lights are on. The AI are awake.
+
+🎙️ Voice-to-Voice & TTS Interaction
+
+🧠 100% Local AI NPCs: Every character in the game runs on a local LLM, with no server dependency or pre-written scripts.
+
+🌆 To Be A Massive Open World: Explore the gritty, neon-soaked sprawl of a cyberpunk slum metropolis, alive with music, nightlife, and urban chaos.
+
+🕶️ True Emergent Gameplay: No two conversations or playthroughs are the same. NPCs react, remember, and evolve.
 
 CyberpunkRP is being created with Unreal Engine 5.5 and is a work in progress that is currently in the early alpha stage at the moment.
 
