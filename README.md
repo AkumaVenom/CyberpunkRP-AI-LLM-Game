@@ -3,6 +3,7 @@
 Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1lhtSFTSmM1x8pZNHdGZ7pdvbTWAaC_BQ
 )
 
+10.18.2025 - v0.0.1.8a has been released
 
 ========================================================================
 
