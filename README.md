@@ -7,6 +7,10 @@ Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&i
 
 ========================================================================
 
+<img width="1920" height="1080" alt="HighresScreenshot00005" src="https://github.com/user-attachments/assets/a64fd133-3e83-4436-8a9b-519d958153b7" />
+
+========================================================================
+
 CyberpunkRP is a cutting-edge game powered by 100% Local AI LLM NPCs for every character in the game.
 
 CyberpunkRP is a immersive roleplaying experience where every NPC is powered by local, real-time AI—not scripted. There are no canned dialogue trees, no predictable responses. Every character in the game is a living, thinking digital mind driven by cutting-edge LLM (Large Language Model) technology, running entirely on your own hardware.
@@ -29,11 +33,7 @@ Welcome to Neon City. The lights are on. The AI are awake.
 
 CyberpunkRP is being created with Unreal Engine 5.5 and is a work in progress that is currently in the early alpha stage at the moment.
 
-========================================================================
-
-<img width="1920" height="1080" alt="HighresScreenshot00002" src="https://github.com/user-attachments/assets/5ec462e0-dc73-436d-a0c8-a6c565d530fc" />
-
-========================================================================
+===========================================================
 
 The GGUF LLM model can be replaced in the packaged build of the app to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
 
