@@ -5,7 +5,7 @@
 Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1NLNgUcEpnJjG68cYjljdXUXvPejal6uC
 )
 
-- Implemented Nvidia DLSS for better graphics & performance with DX12.
+- Implemented "Nvidia DLSS 4" for better graphics & performance with DX12.
 
 - added "Devilish Headband" as a head accessory item in the player inventory.
 
