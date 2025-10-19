@@ -63,7 +63,7 @@ OS: Windows 11 64bit
 
 Requires a Nvidia GPU.
 
-Recommended: CUDA 12.2
+Recommended: CUDA 12.2 [Click To Download](https://developer.nvidia.com/cuda-12-2-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
 
 Requires a CPU that supports AVX, AVX2 and FMA.
 
