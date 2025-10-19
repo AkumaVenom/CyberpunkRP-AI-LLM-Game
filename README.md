@@ -2,6 +2,8 @@
 
 10.18.2025 - v0.0.1.9a has been released!
 
+Video Preview: [Click Here](https://www.youtube.com/watch?v=Q5HKE8VpUsY)
+
 Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1NLNgUcEpnJjG68cYjljdXUXvPejal6uC
 )
 
@@ -76,5 +78,3 @@ Intel: 4th Generation (Haswell) and above
 https://discord.gg/Uf8Q8usSmk
 
 ========================================
-
-https://www.youtube.com/watch?v=Q5HKE8VpUsY
