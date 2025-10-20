@@ -74,7 +74,7 @@ https://discord.gg/Uf8Q8usSmk
 
 ========================================
 
-SectorX Inc AI Android NPC's
+SectorX Inc AI Android NPC's with custom robot TTS voice
 
 ![1](https://github.com/user-attachments/assets/d909d7f7-3db7-4981-a29d-31a70581b824)
 
