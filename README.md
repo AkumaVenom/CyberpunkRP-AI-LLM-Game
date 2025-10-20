@@ -1,18 +1,12 @@
 # CyberpunkRP-AI-LLM-Game
 
-10.18.2025 - v0.0.1.9a has been released!
+10.20.2025 - v0.0.1.10a has been released!
 
 Video Preview: [Click Here](https://www.youtube.com/watch?v=Q5HKE8VpUsY)
 
 Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1eA66uVfIykJeVf5BT6B9BDtT2WqRRZTz)
 
-- Implemented "Nvidia DLSS 4" for better graphics & performance with DX12.
-
-- added "Devilish Headband" as a head accessory item in the player inventory.
-
-- added new handgun item to player inventory.
-
-- added new knife item to player inventory.
+- SectorX Inc AI Android NPC's Added.
 
 ========================================================================
 
