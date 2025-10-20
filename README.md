@@ -8,6 +8,8 @@ Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&i
 
 - SectorX Inc AI Android NPC's Added.
 
+- v0.0.1.10a Video: [Click Here](https://www.youtube.com/watch?v=M9CAcByvkBQ)
+
 ========================================================================
 
 <img width="1920" height="1080" alt="HighresScreenshot00005" src="https://github.com/user-attachments/assets/a64fd133-3e83-4436-8a9b-519d958153b7" />
