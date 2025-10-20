@@ -6,7 +6,7 @@ Video Preview: [Click Here](https://www.youtube.com/watch?v=Q5HKE8VpUsY)
 
 Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1eA66uVfIykJeVf5BT6B9BDtT2WqRRZTz)
 
-- SectorX Inc AI Android NPC's Added.
+- SectorX Inc AI Android NPC's with custom robot TTS voice Added.
 
 - v0.0.1.10a Video: [Click Here](https://www.youtube.com/watch?v=M9CAcByvkBQ)
 
