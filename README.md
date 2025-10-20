@@ -4,8 +4,7 @@
 
 Video Preview: [Click Here](https://www.youtube.com/watch?v=Q5HKE8VpUsY)
 
-Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1NLNgUcEpnJjG68cYjljdXUXvPejal6uC
-)
+Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1eA66uVfIykJeVf5BT6B9BDtT2WqRRZTz)
 
 - Implemented "Nvidia DLSS 4" for better graphics & performance with DX12.
 
