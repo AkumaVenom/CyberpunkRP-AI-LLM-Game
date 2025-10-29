@@ -12,7 +12,7 @@ Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&i
 
 ========================================================================
 
-<img width="1920" height="1080" alt="HighresScreenshot00005" src="https://github.com/user-attachments/assets/a64fd133-3e83-4436-8a9b-519d958153b7" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/60c4397e-48d7-44ac-97cb-1edb24f66019" />
 
 ========================================================================
 
@@ -81,6 +81,6 @@ SectorX Inc AI Android NPC's with custom robot TTS voice
 
 Player Starting Zone - Player arrives to Neon City By Train
 
-![3](https://github.com/user-attachments/assets/03ae388e-e0a5-49e7-8583-7fd070a520e8)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/7556ed70-0646-4769-b7c3-e66db3cccaa1" />
 
 ========================================
